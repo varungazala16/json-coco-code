@@ -1,0 +1,24 @@
+{
+    "annotations": [
+        {
+            "filename": "test/W1/00133.jpg",
+            "label": 1
+        },
+        {
+            "filename": "test/W1/00120.jpg",
+            "label": 1
+        },
+        {
+            "filename": "test/W2/01031.jpg",
+            "label": 1
+        },
+        {
+            "filename": "test/W2/01051.jpg",
+            "label": 1
+        },
+        {
+            "filename": "test/W2/10142.jpg",
+            "label": 1
+        }
+	]
+}
